@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Backend Design**
 
-- 👨‍💻 All of my projects are available [@mohak-srivastava](https://github.com/mohak-srivastava)
+- 👨‍💻 All of my projects are available [@whiteHatpro](https://github.com/whiteHatpro)
 
 - 💬 Ask me about **development and Philosophy 😆**
 
@@ -229,6 +229,6 @@
 </p>
 
 ------
-Credit: [mohak-srivastava](https://github.com/mohak-srivastava)
+Credit: [mohak-srivastava](https://github.com/whiteHatpro)
 
 Last Edited on: 03/01/2021
