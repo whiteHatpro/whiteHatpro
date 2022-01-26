@@ -217,8 +217,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![Mohak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohak-srivastava)](https://github.com/mohak-srivastava/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mohak-srivastava&theme=cobalt)](https://github.com/mohak-srivastava)
+[![Mohak's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteHatpro)](https://github.com/whiteHatpro/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=whiteHatpro&theme=cobalt)](https://github.com/whiteHatpro)
 </div>
 
 ----
