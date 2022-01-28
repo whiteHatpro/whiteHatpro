@@ -53,6 +53,10 @@
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="Dart"/>
   </a>
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
+      alt="Kotlin"/>
+  </a>
 </p>
 
 <h3 align="center">Frontend</h3>
