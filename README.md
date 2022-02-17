@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Mohak Srivastav<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate full stack developer,open source enthusiast and a student from India.</h3>
 
-
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **ReactJS Framework**
@@ -16,15 +15,14 @@
 
 - 💬 Ask me about **development and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
+- ⚡ Fun fact: **Coding is a passion and not profession.**
 
 ---
 
-
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
@@ -32,10 +30,10 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
- 
+
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
-      alt="c++"/> 
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      alt="c++"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -67,7 +65,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
+      alt="react"/>
   </a>
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
@@ -85,22 +83,22 @@
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+      alt="nodejs"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
   <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
+      alt="nginx"/>
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
+      alt="postgresql"/>
   </a>
   <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
@@ -112,7 +110,7 @@
   </a>
   <a href="https://aws.amazon.com/quickstart/architecture/mongodb/" target="_blank"> 
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"
-      alt="amazonmongoDB"/> 
+      alt="amazonmongoDB"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -120,7 +118,7 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
@@ -133,16 +131,16 @@
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
+      alt="heroku"/>
+  </a>
 </p>
 
 <h3 align="center">Testing</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
+      alt="selenium" />
+  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -164,7 +162,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs  & Tools</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudio IDE"/> 
@@ -184,11 +182,10 @@
    <a href="https://codepen.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepen"/>
   </a>
-  
-  
+
 </p>
 
-----
+---
 
 <h3 align="center">Connect with me</h3>
 
@@ -216,23 +213,24 @@
   </a>
 </p>
 
-----
+---
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">GitHub stats</h2>
 
 [![Mohak's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteHatpro)](https://github.com/whiteHatpro/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=whiteHatpro&theme=cobalt)](https://github.com/whiteHatpro)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whiteHatpro&theme=cobalt)](https://github.com/whiteHatpro)
 </div>
 
-----
+---
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-------
-Credit: [mohak-srivastava](https://github.com/whiteHatpro)
+---
+
+Credit: [Mohak Srivastava](https://github.com/whiteHatpro)
 
 Last Edited on: 03/01/2021
