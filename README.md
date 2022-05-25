@@ -6,7 +6,9 @@
 <h3 font-size="20" align="center">A passionate full stack developer,open source enthusiast and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+ <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+ 
+- 🌱 I’m currently learning **To be Extroverted**
 
 - 👯 I’m looking to collaborate on **ReactJS Framework**
 
@@ -23,11 +25,14 @@
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
+ 
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611a635d7c0a3267f7827d474872f763b7162b34b1f&rid=giphy.gif&ct=g"/>
 </p>
 
+ 
+ 
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
